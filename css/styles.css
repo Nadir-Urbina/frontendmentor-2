@@ -1,0 +1,99 @@
+body {
+
+    background-color: hsl(30, 38%, 92%);
+}
+
+h1 {
+    font-family: "Fraunces";
+    font-weight: 700;
+}
+
+p {
+    font-family: "Montserrat";
+    color: hsl(228, 12%, 48%);
+}
+
+.price {
+    color: hsl(158, 36%, 37%);
+}
+
+
+img {
+    width: 100%;
+    margin-right: 0;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+
+}
+
+.container {
+    margin-top: 10%;
+    width: 38%;
+}
+
+.img1 {
+    padding: 0;
+}
+
+.description {
+    background-color: hsl(0, 0%, 100%);
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    margin-left: 0;
+}
+
+.perfume-desc {
+    margin-left: 5%;
+    margin-right: 7.5%;
+    margin-top: 1.7rem;
+    font-size: 1.1rem;
+}
+
+.perfume {
+    letter-spacing: 0.5rem;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.header {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 15%;
+    color: hsl(212, 21%, 14%);
+}
+
+.price-section {
+    margin-left: 11px;
+}
+
+.child {
+    display: inline-table;
+}
+
+.price {
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-right: 1rem;
+    padding: 0;
+}
+
+.prior-price {
+    font-family: "Montserrat";
+    font-size: 1rem;
+    text-decoration: line-through;
+    font-weight: 100;
+    margin-bottom: 00.5rem;
+}
+
+.cart-btn {
+    margin-top: 2rem;
+    background-color: hsl(158, 36%, 37%);
+    border-color: hsl(158, 36%, 37%);
+    font-family: "Montserrat";
+    font-size: 1rem;
+    
+}
+
+.cart-icon {
+    margin-right: 1rem;
+}
